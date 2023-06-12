@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\LearnInterface\bin\Debug\net6.0\LearnInterface.exe
+C:\Users\user\source\repos\LearnInterface\bin\Debug\net6.0\LearnInterface.deps.json
+C:\Users\user\source\repos\LearnInterface\bin\Debug\net6.0\LearnInterface.runtimeconfig.json
+C:\Users\user\source\repos\LearnInterface\bin\Debug\net6.0\LearnInterface.dll
+C:\Users\user\source\repos\LearnInterface\bin\Debug\net6.0\LearnInterface.pdb
+C:\Users\user\source\repos\LearnInterface\obj\Debug\net6.0\LearnInterface.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\LearnInterface\obj\Debug\net6.0\LearnInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\LearnInterface\obj\Debug\net6.0\LearnInterface.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\LearnInterface\obj\Debug\net6.0\LearnInterface.AssemblyInfo.cs
+C:\Users\user\source\repos\LearnInterface\obj\Debug\net6.0\LearnInterface.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\LearnInterface\obj\Debug\net6.0\LearnInterface.dll
+C:\Users\user\source\repos\LearnInterface\obj\Debug\net6.0\refint\LearnInterface.dll
+C:\Users\user\source\repos\LearnInterface\obj\Debug\net6.0\LearnInterface.pdb
+C:\Users\user\source\repos\LearnInterface\obj\Debug\net6.0\LearnInterface.genruntimeconfig.cache
+C:\Users\user\source\repos\LearnInterface\obj\Debug\net6.0\ref\LearnInterface.dll
